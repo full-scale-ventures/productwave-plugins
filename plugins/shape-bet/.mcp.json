@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "productwave": {
+      "type": "http",
+      "url": "https://app.productwave.com/mcp"
+    }
+  }
+}

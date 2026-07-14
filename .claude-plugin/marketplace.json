@@ -1,0 +1,15 @@
+{
+  "name": "productwave-plugins",
+  "owner": {
+    "name": "Full Scale Ventures",
+    "email": "craig@fullscale.ventures"
+  },
+  "plugins": [
+    {
+      "name": "shape-bet",
+      "source": "./plugins/shape-bet",
+      "description": "Shape a ProductWave bet into a high-level product plan through an evidence-grounded interview.",
+      "version": "0.1.0"
+    }
+  ]
+}
