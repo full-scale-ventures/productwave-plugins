@@ -1,9 +1,0 @@
-{
-  "name": "shape-bet",
-  "description": "Interview-driven shaping of a ProductWave bet into a high-level product plan, grounded in your bet's own customer evidence. Adds the /shape-bet command and connects the ProductWave MCP server.",
-  "version": "0.1.0",
-  "author": {
-    "name": "Full Scale Ventures",
-    "email": "craig@fullscale.ventures"
-  }
-}

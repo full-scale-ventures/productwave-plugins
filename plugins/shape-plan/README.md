@@ -1,6 +1,6 @@
-# shape-bet
+# shape-plan
 
-A Claude Code plugin that turns a **ProductWave bet** into a high-level shaping brief
+A Claude Code plugin that turns a **ProductWave bet** into a high-level plan (a shaping brief)
 through an adaptive, evidence-grounded interview — *before* your technical team refines
 it into tickets. It pulls the bet's own customer evidence (supporting/challenging themes,
 quoted signal, competitor intel) from ProductWave and interviews you one question at a
@@ -9,7 +9,7 @@ records them.
 
 ## What you get
 
-- The **`/shape-bet`** command.
+- The **`/shape-plan`** command.
 - A connection to the **ProductWave MCP server** (declared by the plugin — nothing to
   configure by hand).
 
@@ -25,7 +25,7 @@ records them.
 
 ```
 /plugin marketplace add full-scale-ventures/productwave-plugins
-/plugin install shape-bet@productwave-plugins
+/plugin install shape-plan@productwave-plugins
 ```
 
 Then authorize ProductWave when prompted on first run.
@@ -35,7 +35,7 @@ Then authorize ProductWave when prompted on first run.
 Run it with the name (or URL) of the bet you want to shape:
 
 ```
-/shape-bet <bet name>
+/shape-plan <bet name>
 ```
 
 **Run it from inside your product's own repository.** One dimension of the interview

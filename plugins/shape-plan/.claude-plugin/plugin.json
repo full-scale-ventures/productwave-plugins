@@ -1,0 +1,9 @@
+{
+  "name": "shape-plan",
+  "description": "Turn a ProductWave bet into a high-level product plan through an evidence-grounded interview, grounded in your bet's own customer evidence. Adds the /shape-plan command and connects the ProductWave MCP server.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Full Scale Ventures",
+    "email": "craig@fullscale.ventures"
+  }
+}
