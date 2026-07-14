@@ -1,3 +1,8 @@
+---
+description: Shape a ProductWave bet into a high-level product plan through an evidence-grounded interview.
+argument-hint: <bet name or ProductWave bet URL>
+---
+
 Interview the ProductWave product lead to shape a **Bet** into a high-level product plan, *before* the technical team refines it into tickets. You elicit and record decisions — you do not make them. The output is a shaping brief, not an implementation spec.
 
 The interview is **adaptive and one-question-at-a-time**: each question builds on the last, and you dig into the tensions in the bet's own evidence rather than marching a fixed checklist.

@@ -1,5 +1,6 @@
 {
   "name": "productwave-plugins",
+  "description": "Claude Code plugins for ProductWave — bring your customer-evidence graph into the tools where you already work.",
   "owner": {
     "name": "Full Scale Ventures",
     "email": "craig@fullscale.ventures"
