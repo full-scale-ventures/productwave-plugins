@@ -12,6 +12,6 @@ A Claude Code plugin marketplace for [ProductWave](https://app.productwave.com).
 
 | Plugin | Description |
 |--------|-------------|
-| [`shape-plan`](./plugins/shape-plan) | Turn a ProductWave bet into a high-level product plan through an evidence-grounded interview. |
+| [`productwave`](./plugins/productwave) | ProductWave commands for Claude Code — currently `/productwave:shape-plan`, which turns a bet into a high-level product plan. |
 
 Install a plugin with `/plugin install <name>@productwave-plugins`.
