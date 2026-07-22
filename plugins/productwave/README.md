@@ -48,9 +48,10 @@ can hand to your technical team.
 
 ## Where briefs are saved
 
-By default, briefs are written to **`docs/shaping-briefs/`** in the current repo, one flat
-file per bet. To use a different location for your team, add a line to your repo's
-`CLAUDE.md`:
+By default, briefs are written under **`docs/shaping-briefs/`** in the current repo, one
+subfolder per bet (`<slug>-<token>/`) with the brief itself as `<slug>.md` inside it — so
+per-ticket files and evidence exports can live alongside each brief. To use a different
+location for your team, add a line to your repo's `CLAUDE.md`:
 
 ```
 Shaping briefs live in: `docs/product-briefs/`
