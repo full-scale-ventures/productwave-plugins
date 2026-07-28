@@ -69,7 +69,9 @@ Two differences worth knowing:
   matched.
 - **Nothing is created in ProductWave** unless you ask. When the brief is done, the
   command *offers* to turn what you shaped into a Candidate bet — you approve the
-  hypothesis and success metrics first, and it never creates one on its own.
+  hypothesis and success metrics first, and it never creates one on its own. If you do
+  promote it, the brief's folder is renamed to the bet's own naming convention so it
+  matches every other brief in the corpus.
 
 ## Where briefs are saved
 
@@ -77,7 +79,8 @@ By default, briefs are written under **`docs/shaping-briefs/`** in the current r
 subfolder per subject with the brief itself as `<slug>.md` inside it — so per-ticket files
 and evidence exports can live alongside each brief. The subfolder is `<slug>-<token>/` for
 a bet (`<token>` being the tail of its ProductWave UUID), `<slug>-<tracker-id>/` for work
-that came from a tracker, or plain `<slug>/` for work you described. To use a different
+that came from a tracker, or plain `<slug>/` for work you described — with the bet-free
+names being provisional, since promoting to a bet renames the folder. To use a different
 location for your team, add a line to your repo's `CLAUDE.md`:
 
 ```
