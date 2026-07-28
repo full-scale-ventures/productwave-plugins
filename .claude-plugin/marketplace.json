@@ -9,8 +9,8 @@
     {
       "name": "productwave",
       "source": "./plugins/productwave",
-      "description": "ProductWave for Claude Code — the /productwave:shape-plan command turns a bet into a high-level product plan through an evidence-grounded interview.",
-      "version": "0.1.0"
+      "description": "ProductWave for Claude Code — the /productwave:shape-plan command turns a bet, a tracker epic, or any planned work into a high-level product plan through an evidence-grounded interview.",
+      "version": "0.2.0"
     }
   ]
 }
