@@ -1,7 +1,7 @@
 {
   "name": "productwave",
-  "description": "ProductWave for Claude Code. Provides the /productwave:shape-plan command — turn a bet into a high-level product plan through an evidence-grounded interview — and connects the ProductWave MCP server.",
-  "version": "0.1.0",
+  "description": "ProductWave for Claude Code. Provides the /productwave:shape-plan command — turn a bet, a tracker epic, or any planned work into a high-level product plan through an evidence-grounded interview — and connects the ProductWave MCP server.",
+  "version": "0.2.0",
   "author": {
     "name": "Full Scale Ventures",
     "email": "craig@fullscale.ventures"
